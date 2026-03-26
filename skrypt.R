@@ -11,7 +11,7 @@ library(lubridate)
 library(SnowballC)
 library(wordcloud)
 
-setwd("/Users/paulakoralewska/Desktop/studia/semestr 3/text mining")
+setwd("...")
 
 
 # Przygotowanie danych ----------------------------------------------------
